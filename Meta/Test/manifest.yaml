@@ -1,0 +1,7 @@
+updates:
+  - file: 'test.html'
+    eventType: 'SigmaEmailEventTest'
+    subject: '${subject}'
+    templateEngine: 'free_marker'
+    attributes:
+      lang: 'RU'

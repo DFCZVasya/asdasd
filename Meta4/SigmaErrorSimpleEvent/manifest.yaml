@@ -1,0 +1,7 @@
+updates:
+  - file: 'error_sigma_mail_event.html'
+    eventType: 'SigmaErrorSimpleEvent'
+    subject: '${subject}'
+    templateEngine: 'free_marker'
+    attributes:
+      lang: 'RU'

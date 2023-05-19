@@ -1,0 +1,7 @@
+updates:
+  - file: 'sigma-processing-complete-event.html'
+    eventType: 'SigmaProcessingCompleteEvent'
+    subject: 'Завершена обработка ${fileType} ${reportingSystem} за ${day?date.iso?string("dd MMM yyyy")}'
+    templateEngine: 'free_marker'
+    attributes:
+      lang: 'RU'

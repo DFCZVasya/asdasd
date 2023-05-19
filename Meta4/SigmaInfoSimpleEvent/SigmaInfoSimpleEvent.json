@@ -1,0 +1,23 @@
+﻿{
+  "EventId": "SigmaInfoSimpleEvent",
+  "Name": {
+    "RU": "SigmaInfoSimpleEvent",
+    "EN": "SigmaInfoSimpleEvent"
+  },
+  "Description": {
+    "RU": "SigmaInfoSimpleEvent",
+    "EN": "SigmaInfoSimpleEvent"
+  },
+  "EventType": "Info",
+  "Modules": [
+    "Sigma"
+  ],
+  "Scopes": [
+    "Agent"
+  ],
+  "Channels": [
+    "Email"
+  ],
+  "AllowAutoSubscribe": false,
+  "OwnerAttrs": [ "agentCode" ]
+}

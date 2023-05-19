@@ -1,0 +1,23 @@
+﻿{
+  "EventId": "SigmaErrorSimpleEvent",
+  "Name": {
+    "RU": "SigmaErrorSimpleEvent",
+    "EN": "SigmaErrorSimpleEvent"
+  },
+  "Description": {
+    "RU": "SigmaErrorSimpleEvent",
+    "EN": "SigmaErrorSimpleEvent"
+  },
+  "EventType": "Error",
+  "Modules": [
+    "Sigma"
+  ],
+  "Scopes": [
+    "Agent"
+  ],
+  "Channels": [
+    "Email"
+  ],
+  "AllowAutoSubscribe": false,
+  "OwnerAttrs": [ "agentCode" ]
+}

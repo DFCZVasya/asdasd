@@ -1,0 +1,23 @@
+﻿{
+  "EventId": "SigmaProcessingCompleteEvent",
+  "Name": {
+    "RU": "SigmaProcessingCompleteEvent",
+    "EN": "SigmaProcessingCompleteEvent"
+  },
+  "Description": {
+    "RU": "SigmaProcessingCompleteEvent",
+    "EN": "SigmaProcessingCompleteEvent"
+  },
+  "EventType": "Info",
+  "Modules": [
+    "Sigma"
+  ],
+  "Scopes": [
+    "Agent"
+  ],
+  "Channels": [
+    "Email"
+  ],
+  "AllowAutoSubscribe": false,
+  "OwnerAttrs": [ "agentCode" ]
+}

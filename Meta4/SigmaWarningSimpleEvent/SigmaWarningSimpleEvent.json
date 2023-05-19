@@ -1,0 +1,23 @@
+﻿{
+  "EventId": "SigmaWarningSimpleEvent",
+  "Name": {
+    "RU": "SigmaWarningSimpleEvent",
+    "EN": "SigmaWarningSimpleEvent"
+  },
+  "Description": {
+    "RU": "SigmaWarningSimpleEvent",
+    "EN": "SigmaWarningSimpleEvent"
+  },
+  "EventType": "Warning",
+  "Modules": [
+    "Sigma"
+  ],
+  "Scopes": [
+    "Agent"
+  ],
+  "Channels": [
+    "Email"
+  ],
+  "AllowAutoSubscribe": false,
+  "OwnerAttrs": [ "agentCode" ]
+}
